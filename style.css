@@ -1,0 +1,47 @@
+.logo {
+    position: absolute;
+    height: 50px;
+    margin: 0;
+    left: 50px;
+    width: 250px;
+    top: 30px;
+}
+
+li {
+    display: flex;
+    list-style-type: none;
+    display: inline;
+    margin: 0;
+    padding: 8px;
+}
+
+li a {
+    color: white;
+    position: relative;
+    top: 35px;
+    left: 275px;
+    text-decoration: none;
+}
+
+ul {
+    background-color: black;
+    height: 120px;
+    margin: 0;
+    
+}
+
+
+li a:hover  {
+    border-bottom: 1px solid; 
+}
+
+.rocket1 {
+    height: 600px;
+    width: 1503px;
+}
+
+.rocket2 {
+    height: 600px;
+    width: 1503px;
+}
+
